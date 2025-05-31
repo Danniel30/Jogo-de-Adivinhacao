@@ -105,5 +105,5 @@ Sinta-se à vontade para enviar sugestões, abrir issues ou contribuir!
 ## 🚀 Autor
 
 **Danniel de Albuquerque**
-[🔗 LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/danniel-de-albuquerque/))
+[🔗 LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/danniel-de-albuquerque/)
 [🔗 GitHub](https://github.com/Danniel30)
