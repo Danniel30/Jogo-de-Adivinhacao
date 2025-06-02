@@ -1,7 +1,7 @@
 # 🎯 Jogo de Adivinhação com AWS Lambda, API Gateway e S3
 
-![Ilustração do Projeto](https://user-images.githubusercontent.com/12345678/imagename.png)
-
+![Ilustração do Projeto]([https://user-images.githubusercontent.com/12345678/imagename.png](https://github.com/Danniel30/Jogo-de-Adivinhacao/issues/1#issue-3111708806))
+https://github.com/Danniel30/Jogo-de-Adivinhacao/issues/1#issue-3111708806
 Este projeto é resultado da realização do **Laboratório** da **Escola da Nuvem**, onde desenvolvi uma aplicação completa utilizando serviços serverless da AWS.
 
 ## ✅ Descrição do Projeto
