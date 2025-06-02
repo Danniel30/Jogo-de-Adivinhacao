@@ -1,4 +1,8 @@
 # 🎯 Jogo de Adivinhação com AWS Lambda, API Gateway e S3
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2a590458-eaf7-40a0-8ee4-8169707cb1b0" alt="Image" width="700"/>
+</p>
+
 
 Este projeto é resultado da realização do **Laboratório** da **Escola da Nuvem**, onde desenvolvi uma aplicação completa utilizando serviços serverless da AWS.
 
