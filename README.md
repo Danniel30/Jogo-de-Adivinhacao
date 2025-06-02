@@ -1,5 +1,5 @@
 # 🎯 Jogo de Adivinhação com AWS Lambda, API Gateway e S3
-
+[https://private-user-images.githubusercontent.com/87454878/450443112-9255505a-ac9c-402c-8d29-733bfbf98f78.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDg5MDA2MjksIm5iZiI6MTc0ODkwMDMyOSwicGF0aCI6Ii84NzQ1NDg3OC80NTA0NDMxMTItOTI1NTUwNWEtYWM5Yy00MDJjLThkMjktNzMzYmZiZjk4Zjc4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjAyVDIxMzg0OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE4OTMxYWQyODEyMDY5NmQxNjU0NjM2MmY0MDQ5ZmU2N2ExNzU4YjlkM2YxOWQzZTk0ZDA5NTkzYjU0Y2U4YmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.AAhKet_agly4aEUqakUmWz6ofMmAsoxjeX-qt5CgOJA](https://github.com/Danniel30/Jogo-de-Adivinhacao/issues/1#issue-3111708806)
 Este projeto é resultado da realização do **Laboratório** da **Escola da Nuvem**, onde desenvolvi uma aplicação completa utilizando serviços serverless da AWS.
 
 ## ✅ Descrição do Projeto
